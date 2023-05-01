@@ -1,0 +1,4 @@
+vi my_file.txt
+
+
+this is my file dot text
